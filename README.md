@@ -1,5 +1,4 @@
-# api-30-off
-API Claude Sonnet 3.7 and OpenAI o1 at 30% off!
+# API Claude Sonnet 3.7 and OpenAI o1 at 30% off!
 Accelerate AI Innovation: All-in-One API Platform at 20% Off!
 We don't build AI models, but we excel at integrating the best ones.
 Claude Sonnet 3.7 and OpenAI o1 at 30% off!
